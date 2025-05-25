@@ -23,6 +23,8 @@ MIT License. See [LICENSE](./LICENSE) for details.
 
 ## 📬 Contact
 
-Project Lead: [Yurii Holub](mailto:contact@reeblink.com)  
-Website (in progress): [reeblink.com](https://reeblink.com)
+Project Lead: Yurii Holub  
+Contact: [contact@reeblink.com](mailto:contact@reeblink.com)
+
+Website: reeblink.com *(launching soon)*
 
